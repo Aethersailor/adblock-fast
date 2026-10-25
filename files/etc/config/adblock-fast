@@ -77,7 +77,7 @@ config file_url
 
 config file_url
 	option name 'Cats-Team - AdRules DNS'
-	option url 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/domain.txt'
+	option url 'https://cdn.jsdelivr.net/gh/Cats-Team/AdRules@main/domain.txt'
 	option size '4410170'
 	option action 'block'
 	option enabled '0'
